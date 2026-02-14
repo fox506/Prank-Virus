@@ -12,3 +12,4 @@ X=MsgBox("Your Computer is encrypted",0+64,"Alert")
 X=MsgBox("HAHA This was Prank",0+64,"Fooled You")
 X=MsgBox("Prank Credit ZK",0+64,"Fooled You")
 shutdown -s
+
